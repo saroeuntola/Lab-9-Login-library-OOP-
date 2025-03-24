@@ -1,5 +1,5 @@
 <?php
-include('Auth.php');
+include('auth.php');
 $auth = new Auth();
 
 $auth->logout();
